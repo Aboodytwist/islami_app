@@ -1,7 +1,7 @@
-# untitled
-
-A new Flutter project.
-
+# Islami app
+Isalmi app is an islamic application that helps muslims to read the holy quran and some ahadeath also it allow them to use an electronic sebha 
+Islami app contains both light and dark theme 
+Islami app supports both arabic and english languages
 ## Getting Started
 
 This project is a starting point for a Flutter application.
